@@ -1,0 +1,60 @@
+--- Control Data Analysis Results ---
+{
+    "System Performance & End-to-End Latency": {
+        "Average Process Frequency (Hz)": 98.91,
+        "Control End-to-End Latency Statistics (ms)": {
+            "Average": 10.11,
+            "Median": 10.0,
+            "Min": 2.0,
+            "Max": 43.0,
+            "Std Dev": 0.61
+        },
+        "Total Time (s)": 1241.84,
+        "Total Loops Processed": 122831,
+        "Loop Time Value Counts": {
+            "2.0": 7,
+            "3.0": 4,
+            "4.0": 2,
+            "5.0": 4,
+            "6.0": 2,
+            "7.0": 7,
+            "8.0": 54,
+            "9.0": 1423,
+            "10.0": 108758,
+            "11.0": 11739,
+            "12.0": 509,
+            "13.0": 107,
+            "14.0": 36,
+            "15.0": 29,
+            "16.0": 19,
+            "17.0": 19,
+            "18.0": 17,
+            "19.0": 8,
+            "20.0": 8,
+            "21.0": 10,
+            "22.0": 12,
+            "23.0": 4,
+            "24.0": 3,
+            "25.0": 15,
+            "26.0": 5,
+            "27.0": 6,
+            "28.0": 5,
+            "29.0": 2,
+            "30.0": 2,
+            "32.0": 1,
+            "33.0": 2,
+            "34.0": 3,
+            "35.0": 1,
+            "36.0": 1,
+            "37.0": 2,
+            "38.0": 2,
+            "39.0": 1,
+            "40.0": 1,
+            "43.0": 1
+        }
+    },
+    "Frame Integrity": {
+        "Total Frames Logged": 122831,
+        "Total Dropped/Missed Frames": 3318
+    }
+}
